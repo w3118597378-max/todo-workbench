@@ -1,0 +1,26 @@
+# Personal and runtime data — do not share
+.todo-data.json
+.todo-data.json.bak-*
+.todo-data.json.recovery-*
+.todo-data-history/
+.bot-backups/
+.todo-server.log
+.todo-server-wrapper.log
+.workbuddy/
+exports/
+issue-assets/
+colleague-calendar-import-*.json
+
+# Editor / OS
+.DS_Store
+
+# Local backups of source
+*.bak
+*.bak-*
+
+# Local-only experiments and agent plans
+desktop_pet_alarm.py
+docs/superpowers/
+
+# Invalid local copy
+TodoWorkbench.desktop-copy-invalid.app/
